@@ -13,11 +13,11 @@ This project is a web application built using Streamlit that allows users to con
 - User-friendly interface built with Streamlit.
 
 ## Technologies Used
-- **Python**: The programming language for the backend.
-- **Streamlit**: For creating the web application interface.
-- **Google Generative AI (Gemini Pro)**: To generate summaries from the video transcripts.
-- **YouTube Transcript API**: To retrieve transcripts from YouTube videos.
-- **dotenv**: For managing environment variables.
+- Python: The programming language for the backend.
+- Streamlit: For creating the web application interface.
+- Google Generative AI (Gemini Pro)**: To generate summaries from the video transcripts.
+- YouTube Transcript API: To retrieve transcripts from YouTube videos.
+- dotenv: For managing environment variables.
 
 ## Getting Started
 
@@ -61,9 +61,6 @@ Open your browser and go to `http://localhost:8501` to view the application.
 1. Enter the URL of the YouTube video in the input box.
 2. Click the **Get Detailed Notes** button.
 3. The application will display a summary of the video transcript below.
-
-## Example
-![YouTube Transcript to Notes Converter](http://img.youtube.com/vi/example_video_id/0.jpg)
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or want to add new features, please open an issue or submit a pull request.
