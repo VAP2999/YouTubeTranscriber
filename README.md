@@ -68,11 +68,4 @@ Open your browser and go to `http://localhost:8501` to view the application.
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or want to add new features, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-- [Streamlit](https://streamlit.io/) for the framework to build the app.
-- [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api) for fetching transcripts.
-- [Google Generative AI](https://cloud.google.com/generative-ai) for summarization capabilities.
 ```
