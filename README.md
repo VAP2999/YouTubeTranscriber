@@ -1,7 +1,7 @@
 # YouTubeTranscriber
 
 
-```markdown
+
 # YouTube Transcript to Detailed Notes Converter
 
 ## Overview
@@ -65,4 +65,4 @@ Open your browser and go to `http://localhost:8501` to view the application.
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or want to add new features, please open an issue or submit a pull request.
 
-```
+
