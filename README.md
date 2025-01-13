@@ -39,11 +39,6 @@ This project is a web application built using Streamlit that allows users to con
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 
-3. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 4. Set up environment variables:
    - Create a `.env` file in the project root and add your Google API key:
      ```
